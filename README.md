@@ -13,6 +13,6 @@ The goal of the final is to produce a short report, along with code and a simple
 
 If there's something that you're interested in but you're not sure if it's an appropriate topic, please do ask for feedback in the Slack.
 
-### Submitting the midterm
+### Submitting the final
 
-To submit the final assignment, fill in the Jupyter notebook here and upload it to your GitHub repository as usual. Even though this assignment is mostly text, we'll use a Jupyter notebook so that you can format equations and write some code if you would like.
+To submit the final assignment, fill in the Jupyter notebook here and upload it to your GitHub repository as usual.
