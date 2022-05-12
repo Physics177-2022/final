@@ -1,6 +1,6 @@
 # Final project
 
-**Due Friday, December 18**
+**Due Friday, June 10**
 
 ### Overview
 
